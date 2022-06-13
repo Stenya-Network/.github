@@ -1,12 +1,3 @@
-## Hi there 👋
+## Stenya Minecraft Network - Next-Generation Network
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This is the developer organisation of the Stenya.net Minigames Network for the Sandbox game [Minecraft](https://de.wikipedia.org/wiki/Minecraft). Here we publish a part of our APIs, Frameworks or other parts of software from our systems, to make it possible for everyone to have a look into parts of our source code. Examples are the [Text Component API](https://github.com/Stenya-Network/text-component-api) and the [Database Provider API](https://github.com/Stenya-Network/database-provider). Free feel to open issues, if you find bugs or something to improve the user experience.
